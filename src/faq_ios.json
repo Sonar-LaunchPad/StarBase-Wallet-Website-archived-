@@ -2,7 +2,7 @@
   {
     "en": {
       "title": "What is Starbase Wallet?",
-      "markdown": "faq/ios/en/what-is-Starbase-wallet.md"
+      "markdown": "main/src/faq/ios/en/what-is-starbase-wallet.md"
     },
     "ru": {
       "title": "Что такое Starbase кошелек?",
